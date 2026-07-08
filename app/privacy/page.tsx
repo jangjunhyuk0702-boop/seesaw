@@ -46,16 +46,33 @@ export default function PrivacyPage() {
       <section className="space-y-3">
         <h2 className="text-lg font-semibold">4. 쿠키 및 광고</h2>
         <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">
-          현재 시소는 방문자를 추적하는 분석 도구나 광고 쿠키를 사용하지
-          않습니다.
+          시소는 서비스 운영을 위해 Google AdSense와 같은 광고 서비스를
+          이용할 수 있습니다. Google을 포함한 제3자 광고 파트너는 쿠키를
+          사용해 이용자의 이전 방문 기록을 바탕으로 관심사에 맞는 광고를
+          게재할 수 있습니다. 이용자는{" "}
+          <a
+            href="https://adssettings.google.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 dark:text-blue-400 hover:underline"
+          >
+            Google 광고 설정
+          </a>
+          에서 맞춤 광고를 비활성화할 수 있습니다.
         </p>
       </section>
 
       <section className="space-y-3">
         <h2 className="text-lg font-semibold">5. 문의</h2>
         <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">
-          개인정보처리방침에 대한 문의는 [문의용 이메일 주소를 입력해주세요]로
-          연락해 주세요.
+          개인정보처리방침에 대한 문의는{" "}
+          <a
+            href="mailto:jangjunhyuk0702@gmail.com"
+            className="text-blue-600 dark:text-blue-400 hover:underline"
+          >
+            jangjunhyuk0702@gmail.com
+          </a>
+          으로 연락해 주세요.
         </p>
       </section>
 
