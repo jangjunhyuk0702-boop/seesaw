@@ -1,0 +1,226 @@
+[
+  {
+    "press_name": "한겨레",
+    "domain": "hani.co.kr",
+    "leaning": "progressive",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트(빅카인즈 연구진 분류 + 전문가 설문)",
+    "note": "진보 성향 최상위로 분류됨"
+  },
+  {
+    "press_name": "경향신문",
+    "domain": "khan.co.kr",
+    "leaning": "progressive",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "오마이뉴스",
+    "domain": "ohmynews.com",
+    "leaning": "progressive",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "인터넷 중심 진보 매체"
+  },
+  {
+    "press_name": "프레시안",
+    "domain": "pressian.com",
+    "leaning": "progressive",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "인터넷 중심 진보 매체"
+  },
+  {
+    "press_name": "KBS",
+    "domain": "kbs.co.kr",
+    "leaning": "progressive",
+    "confidence": "low",
+    "source": "BigKinds 이슈리포트",
+    "note": "공영방송·정권별 논조 변화 가능성 있음(요약정리자료 지적)"
+  },
+  {
+    "press_name": "MBC",
+    "domain": "mbc.co.kr",
+    "leaning": "progressive",
+    "confidence": "medium",
+    "source": "BigKinds 이슈리포트",
+    "note": "과거 정권별 보도국 인사 개입 논란 있었음(요약정리자료)"
+  },
+  {
+    "press_name": "YTN",
+    "domain": "ytn.co.kr",
+    "leaning": "progressive",
+    "confidence": "low",
+    "source": "BigKinds 이슈리포트",
+    "note": "정부 성향에 따라 논조 변화 있다는 지적 있음(요약정리자료)"
+  },
+  {
+    "press_name": "JTBC",
+    "domain": "jtbc.co.kr",
+    "leaning": "center-progressive",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "중앙일보 계열이나 보도 논조는 진보~중도로 평가되는 경우 많음"
+  },
+  {
+    "press_name": "조선일보",
+    "domain": "chosun.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": "보수 성향 최상위로 분류됨"
+  },
+  {
+    "press_name": "중앙일보",
+    "domain": "joongang.co.kr",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "BigKinds 이슈리포트",
+    "note": "최근 다소 중도적 논조 평가도 있음(요약정리자료)"
+  },
+  {
+    "press_name": "동아일보",
+    "domain": "donga.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "문화일보",
+    "domain": "munhwa.com",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": ""
+  },
+  {
+    "press_name": "한국경제",
+    "domain": "hankyung.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": "경제지·친기업 성향"
+  },
+  {
+    "press_name": "서울경제",
+    "domain": "sedaily.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "헤럴드경제",
+    "domain": "heraldcorp.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "아시아경제",
+    "domain": "asiae.co.kr",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "국민일보",
+    "domain": "kmib.co.kr",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "세계일보",
+    "domain": "segye.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "머니투데이",
+    "domain": "mt.co.kr",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "매일경제",
+    "domain": "mk.co.kr",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": ""
+  },
+  {
+    "press_name": "매일신문",
+    "domain": "imaeil.com",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "영남일보",
+    "domain": "yeongnam.com",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "BigKinds 이슈리포트",
+    "note": ""
+  },
+  {
+    "press_name": "연합뉴스",
+    "domain": "yna.co.kr",
+    "leaning": "center",
+    "confidence": "low",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "국가기간통신사·정부 성향 따라 논조 변화 가능성 지적됨"
+  },
+  {
+    "press_name": "서울신문",
+    "domain": "seoul.co.kr",
+    "leaning": "center",
+    "confidence": "low",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "공기업 주요주주·정부 정책 영향 가능성 지적됨"
+  },
+  {
+    "press_name": "SBS",
+    "domain": "sbs.co.kr",
+    "leaning": "center",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "지상파 중 유일한 민영방송·비교적 중립 평가"
+  },
+  {
+    "press_name": "MBN",
+    "domain": "mbn.co.kr",
+    "leaning": "center-conservative",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "경제지 계열이나 정치 이슈에서는 비교적 중도적"
+  },
+  {
+    "press_name": "채널A",
+    "domain": "ichannela.com",
+    "leaning": "conservative",
+    "confidence": "medium",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "TV조선보다 온건한 보수로 평가"
+  },
+  {
+    "press_name": "TV조선",
+    "domain": "tvchosun.com",
+    "leaning": "conservative",
+    "confidence": "high",
+    "source": "요약정리자료(lekohoo.com)",
+    "note": "종편 중 가장 강한 보수 논조로 평가"
+  }
+]
